@@ -13,8 +13,8 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 
 #%% Read Data Sets
-training_data = pd.read_csv('C:/Users/Rich/OneDrive/Documents/Independent Projects/Kaggle/Homesite/train.csv', index_col = 'QuoteNumber')
-test_data = pd.read_csv('C:/Users/Rich/OneDrive/Documents/Independent Projects/Kaggle/Homesite/test.csv', index_col = 'QuoteNumber')
+training_data = pd.read_csv('C:/Users/Rich/OneDrive/Documents/Independent Projects/Kaggle Data and Submissions/Homesite/train.csv', index_col = 'QuoteNumber')
+test_data = pd.read_csv('C:/Users/Rich/OneDrive/Documents/Independent Projects/Kaggle Data and Submissions/Homesite/test.csv', index_col = 'QuoteNumber')
 
 #%% Fix Dates
 def fix_dates(df):
