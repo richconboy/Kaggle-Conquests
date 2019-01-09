@@ -1,7 +1,7 @@
 # Side-Proyectos
 Scripts for any Kaggle competitions I participate in or other shenanigans
 
-###Index of Files:
+### Index of Files:
  * **Blizzard API** - This was just me practicing learning APIs and trying to do it in a fun way.  I was able to pull down a picture of my old WoW character!
  * **Dota 2 Match History** - Also learning to work with APIs, except this time I used a Python wrapper.  This code was just me messing around and pulling down stats to show how terrible I am.  Please don't base any hiring decisions on my KDA ratio.
  * **Giant Bomb Text Mining** - Classifying games into genres by text mining short descriptions.  
